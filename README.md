@@ -13,9 +13,7 @@ Your assignment is to remove all the legacy stuff from this and submit:
 
 ## Solution
 
-|| NBViewer | Google Colab |
-|--|--|--|
-| Attention Is All You Need  | <a href="https://nbviewer.jupyter.org/github/satyajitghana/TSAI-DeepNLP-END2.0/blob/main/13_AIAYN_Recap/Attention_is_All_You_Need_Modern.ipynb"><img alt="Open In NBViewer" src="https://img.shields.io/badge/render-nbviewer-orange?logo=Jupyter" ></a> | <a href="https://githubtocolab.com/satyajitghana/TSAI-DeepNLP-END2.0/blob/main/13_AIAYN_Recap/Attention_is_All_You_Need_Modern.ipynb"><img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a> 
+
 
 **Logs**
 
