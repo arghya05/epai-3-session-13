@@ -3,7 +3,7 @@
 
 ## Assignment
 
-This  [code (Links to an external site.)](https://colab.research.google.com/github/bentrevett/pytorch-seq2seq/blob/master/6%20-%20Attention%20is%20All%20You%20Need.ipynb#scrollTo=FqXbPB80r8p4)is from the same repo that we were following.
+is from the same repo that we were following.
 
 Your assignment is to remove all the legacy stuff from this and submit:
 
